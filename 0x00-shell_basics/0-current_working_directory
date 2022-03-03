@@ -1,1 +1,2 @@
-We use pwd
+#!/bin/bash
+pwd
